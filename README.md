@@ -1,1 +1,1 @@
-Developed Pine City Zoo, an interactive web app showcasing animals, exhibits, points of interest, and weather info. Built with HTML, CSS, and JavaScript, it features responsive design, dynamic UI, and a feedback module, demonstrating skills in front-end development, user experience, and project structuring.
+
